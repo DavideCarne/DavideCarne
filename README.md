@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-## Davide Carnevali
 
-- 👨‍🎓 Studying Mathematical Engineering with a focus on Statistical and Machine Learning, Deep Learning.
-- 📚 Passionate about applying mathematical models to solve real-world problems, with focus on finance and medicine.
-- 💻 Experienced in implementing machine learning algorithms and data analysis techniques.
-- 🚀 Constantly learning and keeping up with the latest advancements in these fields.
+- Studying Mathematical Engineering with a focus on Statistical and Machine Learning, Deep Learning.
+- Passionate about applying mathematical models to solve real-world problems, with focus on finance and medicine.
+- Experienced in implementing machine learning algorithms and data analysis techniques.
+- Constantly learning and keeping up with the latest advancements in these fields.
 
 ## 🎓 Education:
 - MSc in Mathematical Engineering - Major in Statistical Learning @ Politecnico di Milano
