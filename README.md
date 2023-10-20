@@ -2,8 +2,7 @@
 
 
 - Studying Mathematical Engineering with a focus on Statistical, Machine Learning, and Deep Learning.
-- Passionate about applying mathematical models to solve real-world problems, with focus on finance and medicine.
-- Experienced in implementing machine learning algorithms and data analysis techniques.
+- Passionate about implementing mathematical models to solve real-world problems, with focus on finance and medicine.
 - Constantly learning and keeping up with the latest advancements in these fields.
 
 ### 🎓 Education:
@@ -42,6 +41,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📊 Interested in exploring the intersection of statistics, mathematics, and computer science.
+- Experienced in implementing machine learning algorithms and data analysis techniques.
 -->
 
 <!--
