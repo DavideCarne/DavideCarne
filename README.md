@@ -8,7 +8,7 @@
 ### 🎓 Education:
 - MSc in Mathematical Engineering - Major in Statistical Learning @ Politecnico di Milano
 - BSc in Mathematical Engineering @ Politecnico di Milano
-- Technical Insitute - Computer Science @ Enrico Fermi Mantova
+- Technical Institute - Computer Science @ Enrico Fermi Mantova
 
 ### ✅ Projects:
 - Clustering spatial time series via Bayesian Nonparametric
