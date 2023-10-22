@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-- Studying Mathematical Engineering with a focus on Statistical, Machine Learning, and Deep Learning.
-- Passionate about implementing mathematical models to solve real-world problems, with focus on finance and medicine.
-- Constantly learning and keeping up with the latest advancements in these fields.
+- Studying Mathematical Engineering with a focus on Statistical, Machine, and Deep Learning.
+- Passionate about implementing mathematical models to solve real-world problems, with focus on finance and health sciences.
+- Constantly learning and keeping track of the latest developments in these areas..
 
 ### 🎓 Education:
 - MSc in Mathematical Engineering - Major in Statistical Learning @ Politecnico di Milano
@@ -12,10 +12,10 @@
 
 ### ✅ Projects:
 - Clustering spatial time series via Bayesian Nonparametric
-- Development of DNA methylation surrogates from EWAS database summaries Feb 2022 - July 2022
-- Neural Network for Image Recognition, Image Segmentation, Time Series Forecasting, Visual Question Answering
+- Development of DNA methylation surrogates from EWAS database summaries
+- Neural Networks for Image Recognition, Image Segmentation, Time Series Forecasting, Visual Question Answering
 - Sensitivity Analysis in Computational Neuroscience
-- Black Box Portfolio Replication.
+- Black Box Portfolio Replication
 
 ### 💻 Technical Skills:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]() 
