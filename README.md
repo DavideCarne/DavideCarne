@@ -10,8 +10,8 @@
 - BSc in Mathematical Engineering @ Politecnico di Milano
 - Technical Institute - Computer Science @ Enrico Fermi Mantova
 
-#### ✅ Projects:
-- Clustering spatial time series via Bayesian Nonparametric
+#### ✅ Some projects i developed during my studies:
+- Clustering PM10 spatial time series via Bayesian Nonparametric
 - Development of DNA methylation surrogates from EWAS database summaries
 - Neural Networks for Image Recognition, Image Segmentation, Time Series Forecasting, Visual Question Answering
 - Sensitivity Analysis in Computational Neuroscience
