@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-- Studying Mathematical Engineering with a focus on Statistical, Machine, and Deep Learning.
-- Passionate about implementing mathematical models to solve real-world problems, with focus on finance and health sciences.
-- Constantly learning and keeping track of the latest developments in these areas..
+- Graduated Mathematical Engineer with a focus on Artificial Intelligence and Data Science<!-- Statistical, Machine, and Deep Learning.-->
+- Passionate about implementing mathematical models to solve real-world problems. <!-- , with focus on finance and health sciences. -->
+- Constantly learning and seeking improvements from latest developments in the area. <!-- keeping track of the latest developments in these areas.. -->
 
 #### 🎓 Education:
 - MSc in Mathematical Engineering - Major in Statistical Learning @ Politecnico di Milano
