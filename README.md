@@ -17,8 +17,8 @@ to refine them using latest methodologies. -->
 - 📊 Statistics & Data Analysis
 
   - Predictive Digital Twin Framework for Risk Assessment in Congestive Heart Failure (Master Thesis)
-  - Clustering PM10 spatial time series via Bayesian Nonparametric methods [GitHub Repo](https://github.com/DavideCarne/PM10_BAYESIAN)
-  - Sensitivity Analysis in Cell Membrane Models [GitHub Repo](https://github.com/DavideCarne/compstat_uq)  <!-- Computational Neuroscience -->
+  - [Clustering PM10 spatial time series via Bayesian Nonparametric methods](https://github.com/DavideCarne/PM10_BAYESIAN) <!-- [GitHub Repo] -->
+  - [Sensitivity Analysis in Cell Membrane Models](https://github.com/DavideCarne/compstat_uq)  <!-- Computational Neuroscience -->
   - Development of DNA methylation surrogates from EWAS database summaries
  
 - 🤖 Machine Learning & AI
