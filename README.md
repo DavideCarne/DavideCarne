@@ -8,7 +8,7 @@
 I enjoy implementing mathematical models to solve real-world problems and constantly learning.\ 
 to refine them using latest methodologies. -->
 
-#### 🎓 Education:
+#### 🎓 Education
 - MSc in Mathematical Engineering - Major in Statistical Learning @ Politecnico di Milano
 - BSc in Mathematical Engineering @ Politecnico di Milano
 - Technical Institute - Computer Science @ Enrico Fermi Mantova
@@ -28,6 +28,26 @@ to refine them using latest methodologies. -->
  
 - 📈 Finance & Quantitative Modeling
   - Black Box Portfolio Replication using Statistical and ML techniques
+
+<!--
+## ✅ Projects
+
+| **Category**                | **Projects** |
+|-----------------------------|-------------|
+| 📊 **Statistics & Data**     | **Predictive Digital Twin** – Risk assessment in heart failure patients *(Thesis).* <br> [**PM10 Data Clustering**](https://github.com/DavideCarne/PM10_BAYESIAN) – Bayesian nonparametric methods for spatial time series. <br> [**Cell Membrane Sensitivity**](https://github.com/DavideCarne/compstat_uq) – Uncertainty quantification in computational neuroscience. <br> **DNA Methylation Surrogates** – Statistical modeling for biomarker discovery. |
+| 🤖 **Machine Learning**      | **NNs for Image Tasks** – Iamge Recognition & Segmentation for cultivated plants. <br> **RNNs for Time Series** – Multivariate forecasting. <br> **GANs & VAEs** – Image generation. |
+| 📈 **Finance & Modeling**    | **Black Box Portfolio** – ML & statistical replication. |
+
+
+## ✅ Some projects i developed during my studies
+
+| **Category**                | **Topics** |
+|-----------------------------|-------------|
+| 📊 **Statistics & Data**     | [PM10 Clustering](https://github.com/yourusername/pm10-clustering) – Bayesian modeling for air pollution. <br> [DNA Methylation Surrogates](https://github.com/yourusername/dna-methylation) – Epigenetic data modeling. <br> [Computational Neuroscience](https://github.com/yourusername/comp-neuro) – Sensitivity analysis in brain simulations. |
+| 🤖 **Machine Learning & AI** | [Image Recognition](https://github.com/yourusername/neural-networks-image-recognition) – CNNs for classification. <br> [Image Segmentation](https://github.com/yourusername/image-segmentation) – UNet for medical images. <br> [Time Series Forecasting](https://github.com/yourusername/time-series-forecasting) – LSTMs for predictive modeling. <br> [Visual QA](https://github.com/yourusername/visual-question-answering) – Image-based question answering. |
+| 📈 **Finance & Modeling**    | [Portfolio Replication](https://github.com/yourusername/black-box-portfolio-replication) – ML for hedge fund replication. |
+
+-->
 
 #### 💻 Technical Skills:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]() 
